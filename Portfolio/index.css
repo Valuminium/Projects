@@ -11,18 +11,17 @@
     background-image: url('readingBoy.png');
     background-size: 1600px 800px;
     background-repeat: no-repeat;
-    background: linear-gradient(to right, #00093c, #2d0b00);
-    
+    background: linear-gradient(to right, #371072, #80bfd8);  
   }
   
   nav {
-    background: linear-gradient(to right, #00093c, #2d0b00);
+    background: linear-gradient(to right, #371072, #80bfd8);
     height: 80px;
     width: 100%;
   }
 
   .navbar a:hover{
-    color: #9c96e7;
+    color: #d5d4e9;
   }
   
   .heading{
